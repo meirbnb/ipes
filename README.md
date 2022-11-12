@@ -1,4 +1,4 @@
-# ipes
+# IPES
 Interview Preparation Expert System
 
 ## Midterm Project
